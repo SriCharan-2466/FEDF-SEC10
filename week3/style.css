@@ -1,0 +1,30 @@
+body { 
+  font-family: Arial, sans-serif; 
+  margin: 0; 
+  padding: 0; 
+} 
+ 
+header { 
+  background-color: #333; 
+  color: white; 
+  padding: 20px; 
+  text-align: center; 
+} 
+ 
+.about { 
+  padding: 20px; 
+  display: flex; 
+  flex-direction: row; 
+  align-items: center; 
+  gap: 20px; 
+} 
+ 
+.responsive-img { 
+  width: 100%; 
+  max-width: 400px; 
+  height: auto; 
+} [33mcommit 2e4a15fd9db173b2d856b9d1a55d287e4b31d763[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: SriCharan-2466 <2420080051@klh.edu.in>
+Date:   Mon Jul 28 10:45:37 2025 +0530
+
+    Add responisve layout and image
