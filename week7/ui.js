@@ -1,3 +1,4 @@
+
 import { addToCart, removeFromCart, getCart, calculateTotal } from './cart.js';
 
 export function renderBooks(books) {

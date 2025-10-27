@@ -1,3 +1,4 @@
+
 [ 
   {
     "title": "Clean Code",
@@ -5,7 +6,7 @@
     "price": 35.99,
     "availability": "in stock"
   },
-   {
+  {
     "title": "You Don’t Know JS Yet",
     "author": "Kyle Simpson",
     "price": 30.00,
@@ -17,10 +18,10 @@
     "price": 28.50,
     "availability": "out of stock"
   },
-   {
+  {
     "title": "JavaScript: The Good Parts",
     "author": "Douglas Crockford",
     "price": 25.99,
     "availability": "in stock"
   }
- ]
+]
